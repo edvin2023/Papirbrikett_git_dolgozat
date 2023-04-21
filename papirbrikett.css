@@ -1,10 +1,11 @@
 html{
   background-image: url(hatterkep.png);
+  line-height: 125%;
 }
 
 body{
   padding: 15px;
-  color: blue;
+  color: #1f3f5f;
   line-height: 110%;
 }
 
@@ -66,4 +67,8 @@ p:first-letter{
 
 li{
   margin-top: 10px;
+}
+
+ol{
+  border-bottom: 1px solid black;
 }
